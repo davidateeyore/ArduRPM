@@ -5,3 +5,5 @@ This code is an early version; the later version currently in the counter is bur
 It appears that the conventional Arduino libraries and methods using timers and interrupts have issues at slow speeds and high speeds..next approach is to do it in AVR code directly, rather than Arduino code.
 Still the 3D printed case has worked out quite well, with a RJ style socket for the sensor head and a DC power socket for the 5V needed to run the unit.
 The ARDUpsu board is being reworked to allow other applications on the atMEGA328 with the 8x2 OLED display..
+
+The STL files for the ArduRPM box with lid. I printed it in PLA+ on a Creality Ender 5 printer without any problems..
