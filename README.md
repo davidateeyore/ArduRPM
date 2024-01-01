@@ -7,3 +7,5 @@ Still the 3D printed case has worked out quite well, with a RJ style socket for 
 The ARDUpsu board is being reworked to allow other applications on the atMEGA328 with the 8x2 OLED display..
 
 The STL files for the ArduRPM box with lid. I printed it in PLA+ on a Creality Ender 5 printer without any problems..
+UPDATE (of sorts!)
+I have found an article suggesting using a 60 slot opto-interruper wheel which could improve the performance: openSCADded a suitable design and will test it with some better arduino code (60 pulses detected equauls 1 rev per minute) and just do a frequency count for 1 second then divide by 60 and display RPM.. just need to fix the code.. 
