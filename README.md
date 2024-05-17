@@ -11,3 +11,5 @@ UPDATE (of sorts!)
 I have found an article suggesting using a 60 slot opto-interruper wheel which could improve the performance: openSCADded a suitable design and will test it with some better arduino code (60 pulses detected equauls 1 rev per minute) and just do a frequency count for 1 second then divide by 60 and display RPM.. just need to fix the code.. 
 
 Later(10MAR2024) the positioning of the optointerrupter is critical, there isn't much room at the head end of the minilathe. Also, at speed, the pulse shaping is rather crappy. may need to put a buffer in place with input pulldown.. 
+
+17MAY2024 .. the bracket for the optointerrupter needs replacing; a piece of aluminium angle suitable milled and drilled will help along with the aforemention pulse shaping mods.. 
