@@ -13,3 +13,5 @@ I have found an article suggesting using a 60 slot opto-interruper wheel which c
 Later(10MAR2024) the positioning of the optointerrupter is critical, there isn't much room at the head end of the minilathe. Also, at speed, the pulse shaping is rather crappy. may need to put a buffer in place with input pulldown.. 
 
 17MAY2024 .. the bracket for the optointerrupter needs replacing; a piece of aluminium angle suitable milled and drilled will help along with the aforemention pulse shaping mods.. 
+
+25AUG2024 .. the bracket has been put on hold, due to Medical circs.. I have to clear the shed out to get safely to my machine tools!
