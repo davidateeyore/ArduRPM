@@ -15,3 +15,5 @@ Later(10MAR2024) the positioning of the optointerrupter is critical, there isn't
 17MAY2024 .. the bracket for the optointerrupter needs replacing; a piece of aluminium angle suitable milled and drilled will help along with the aforemention pulse shaping mods.. 
 
 25AUG2024 .. the bracket has been put on hold, due to Medical circs.. I have to clear the shed out to get safely to my machine tools!
+
+31JUL2026 .. Maybe an ESP32 may be better for handling the crappy pulses..
